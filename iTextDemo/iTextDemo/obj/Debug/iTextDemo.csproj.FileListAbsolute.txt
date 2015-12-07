@@ -1,0 +1,9 @@
+F:\插件中心\PDF操作\Demo\iTextDemo\iTextDemo\iTextDemo\bin\Debug\iTextDemo.exe.config
+F:\插件中心\PDF操作\Demo\iTextDemo\iTextDemo\iTextDemo\obj\Debug\iTextDemo.csprojResolveAssemblyReference.cache
+F:\插件中心\PDF操作\Demo\iTextDemo\iTextDemo\iTextDemo\bin\Debug\iTextDemo.exe
+F:\插件中心\PDF操作\Demo\iTextDemo\iTextDemo\iTextDemo\bin\Debug\iTextDemo.pdb
+F:\插件中心\PDF操作\Demo\iTextDemo\iTextDemo\iTextDemo\obj\Debug\iTextDemo.exe
+F:\插件中心\PDF操作\Demo\iTextDemo\iTextDemo\iTextDemo\obj\Debug\iTextDemo.pdb
+F:\程序Git\GitTest\iTextDemo\iTextDemo\bin\Debug\iTextDemo.exe.config
+F:\程序Git\GitTest\iTextDemo\iTextDemo\obj\Debug\iTextDemo.exe
+F:\程序Git\GitTest\iTextDemo\iTextDemo\obj\Debug\iTextDemo.pdb
